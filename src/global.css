@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-3xs: 10px;
+  --font-size-2xs: 11px;
+  --font-size-5xs-3: 7.3px;
+  --font-size-smi: 13px;
+  --font-size-xs: 12px;
+  --font-size-3xl: 22px;
+  --font-size-base: 16px;
+  --font-size-sm: 14px;
+  --font-size-5xl: 24px;
+  --font-size-xs-6: 11.6px;
+
+  /* Colors */
+  --white: #fff;
+  --peoplesol-dark-grey: #555;
+  --color-gray: #fafafa;
+  --peoplesol-primery: #1296b0;
+  --peopelsol-pms: #fb7158;
+  --peopelsol-hrms: #0db53c;
+  --peopelsol-tax: #8a88ed;
+  --peoplesol: #bfbfbf;
+  --peopelsol-grey-2: #e6e6e6;
+  --peopelsol-ess-mss: #b69fb3;
+  --peopelsol-ld: #5bc4bf;
+  --peopelsol-office-admin: #de64a1;
+  --peopelsol-travel: #f7941d;
+  --peopelsol-payroll: #da5db6;
+  --peopelsol-ats: #77a2c7;
+  --peopelsol-reports-analytics: #a0a0cb;
+  --color-aliceblue: #e9f3f4;
+  --pastel: #d8f0f2;
+
+  /* border radiuses */
+  --br-7xs: 6px;
+  --br-9xs: 4px;
+  --br-11xs-8: 1.8px;
+  --br-5xs: 8px;
+  --br-9xs-9: 3.9px;
+
+  /* Effects */
+  --effect: 0px 0px 10px rgba(0, 0, 0, 0.04);
+}
